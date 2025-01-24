@@ -36,7 +36,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to My PHP Application</h1>
+        <h1>Welcome to My new PHP Application</h1>
     </header>
     <main>
         <p>This page is served dynamically using PHP within a Docker container.</p>
